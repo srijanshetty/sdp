@@ -11,12 +11,12 @@
 
 ## Install
 
-Copy sdp and \_dsp anywhere in \$fpath. Both are meant to be used as auto-loadable functions.
+1. Copy [sdp](sdp) and [\_sdp](\_sdp) to $FPATH. [sdp](sdp) is meant to be used as an autoloadable function.
 
 ## Usage
 
 ![demo](demo.gif)
 
-## License
+## Credits
 
-MIT © [Srijan R Shetty](http://srijanshetty.in)
+Taken from [commandlinefu](commandlinefu.com)
